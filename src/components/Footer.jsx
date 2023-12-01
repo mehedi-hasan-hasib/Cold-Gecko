@@ -39,7 +39,7 @@ function Footer() {
           className="absolute w-[1204px] top-[243px] flex items-center justify-between"
           id=""
         >
-          <img src="/src/assets/ColdGecko.png" alt="" />
+          <img src="ColdGecko.png" alt="" />
           <div className="flex items-center">
             <a className="m-7" href="">
               Privacy Policy
@@ -47,31 +47,11 @@ function Footer() {
             <a className="m-7" href="">
               Contact Us
             </a>
-            <img
-              className="m-4"
-              src="/src/components/img/Vector17.png"
-              alt=""
-            />
-            <img
-              className="m-4 w-6 h-6"
-              src="/src/components/img/meta.png"
-              alt=""
-            />
-            <img
-              className="m-4 w-6 h-6"
-              src="/src/components/img/instagram.png"
-              alt=""
-            />
-            <img
-              className="m-4 w-6 h-6"
-              src="/src/components/img/linkdien.png"
-              alt=""
-            />
-            <img
-              className="m-4 w-6 h-6"
-              src="/src/components/img/twitter.png"
-              alt=""
-            />
+            <img className="m-4" src="Vector17.png" alt="" />
+            <img className="m-4 w-6 h-6" src="meta.png" alt="" />
+            <img className="m-4 w-6 h-6" src="instagram.png" alt="" />
+            <img className="m-4 w-6 h-6" src="linkdien.png" alt="" />
+            <img className="m-4 w-6 h-6" src="twitter.png" alt="" />
           </div>
         </div>
       </div>

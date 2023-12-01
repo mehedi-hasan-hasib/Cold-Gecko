@@ -1,7 +1,7 @@
 function Nav() {
   return (
     <nav className="flex items-center pl-130">
-      <img src="/src/assets/ColdGecko.png" alt="" />
+      <img src="ColdGecko.png" alt="" />
       <ul className="flex items-center justify-center">
         <a href="#" className="nav-items" id="aboutUs">
           About us
