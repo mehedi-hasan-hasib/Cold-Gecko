@@ -39,7 +39,7 @@ function Footer() {
           className="absolute w-[1204px] top-[243px] flex items-center justify-between"
           id=""
         >
-          <img src="/src/components/img/ColdGecko.png" alt="" />
+          <img src="/src/assets/ColdGecko.png" alt="" />
           <div className="flex items-center">
             <a className="m-7" href="">
               Privacy Policy
