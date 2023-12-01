@@ -131,7 +131,7 @@ nav ul a {
     top: 220px;
     left: 640px;
     border-radius: 8px;
-    background-image: url(src/components/img/Rectangle9.png);
+    background-image: url(/src/components/img/Rectangle9.png);
     z-index: 2;
 }
 

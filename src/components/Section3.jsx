@@ -3,14 +3,14 @@ function Section3() {
     <section className="relative" id="section-3">
       <div className="flex" id="section-3-subdiv1">
         <div className="" id="rectangle-14-box">
-          <img id="ellipse7" src="src/components/img/Ellipse7.png" alt="" />
+          <img id="ellipse7" src="/src/components/img/Ellipse7.png" alt="" />
           <img
             id="rectangle14"
-            src="src/components/img/Rectangle14.png"
+            src="/src/components/img/Rectangle14.png"
             alt=""
           />
-          <img id="group919" src="src/components/img/Group919.png" alt="" />
-          <img id="subtract" src="src/components/img/Subtract.png" alt="" />
+          <img id="group919" src="/src/components/img/Group919.png" alt="" />
+          <img id="subtract" src="/src/components/img/Subtract.png" alt="" />
         </div>
 
         <div>
@@ -43,7 +43,7 @@ function Section3() {
 
       <button>Read More</button>
 
-      <img id="group932" src="src/components/img/Group921.png" alt="" />
+      <img id="group932" src="/src/components/img/Group921.png" alt="" />
     </section>
   );
 }
