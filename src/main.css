@@ -70,7 +70,7 @@ nav ul a {
     width: 1102px;
     background-repeat: no-repeat;
     height: 704px;
-    background-image: url(Frame.png);
+    background-image: url(/public/Frame.png);
     object-fit: fill;
     background-position: top;
 }
@@ -131,7 +131,7 @@ nav ul a {
     top: 220px;
     left: 640px;
     border-radius: 8px;
-    background-image: url(Rectangle9.png);
+    background-image: url(/public/Rectangle9.png);
     z-index: 2;
 }
 
